@@ -1,0 +1,18 @@
+invision - desiging app
+adobe xperienz - designing
+
+1.starting
+C:\Users\USER>git config --global user.name "tomsvincent"
+C:\Users\USER>git config --global user.email "tomsvincent73@gmail.com"
+
+2.for cloning with repository in github-copy paste url from github
+git clone https://github.com/tomsvincent/Android.git
+
+3.git status - to get the current status
+
+4.add filename - to add file to git (green colour)
+
+5.git commit -am"changes made" - to commit or when changes is made , do commit
+
+6. 
+
